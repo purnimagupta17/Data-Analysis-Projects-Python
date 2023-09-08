@@ -1,8 +1,6 @@
-# Data-Analysis-Projects-Python
+# Uber Trips Data Analysis
 
-# Project Title
-
-Brief description of your project.
+This project is to analyse and undertsand the Uber trips within USA. The dataset has date, longitude, lattitude level of detail. Analysis is aimed to find out the most busy hour, day and location in terms of rides density.
 
 ## Table of Contents
 
